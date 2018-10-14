@@ -50,7 +50,7 @@ rockybalboa = media.Movie("Rocky Balboa V",
 # Instance Creation - 12
 interstellar = media.Movie("Interstellar",
                            "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",  # NOQA
-                           "https://www.youtube.com/watch?v=LpdTsygor0A")
+                           "https://www.youtube.com/watch?v=Lm8p5rlrSkY")
 
 # Array With Instances
 movies_list = [toy_story,
