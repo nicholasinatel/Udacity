@@ -9,7 +9,7 @@ toy_story = media.Movie("Toy Story",
                         "https://www.youtube.com/watch?v=KYz2wyBy3kc")
 # Instance Creation - 02
 avatar = media.Movie("Avatar",
-                     "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",  # NOQA
+                     "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poste+r.jpg",  # NOQA
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY")
 # Instance Creation - 03
 robot = media.Movie("MrRobot",
