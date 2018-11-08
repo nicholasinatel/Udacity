@@ -1,0 +1,220 @@
+/*
+*
+* Semantic General Elements
+*
+*/
+h1,
+h3 {
+    padding: 10px;
+}
+
+article {
+    font-size: 18px;
+    line-height: 1.5em;
+    padding-top: 25px;
+}
+
+/*
+* SINGLE ELEMENTS
+*/
+/*
+*
+* Text Color
+*
+*/
+.white-text {
+    color: white;
+}
+
+/*
+*
+* Buttons
+*
+*/
+.btn-lg {
+    margin: 5px;
+}
+
+/*
+*
+* Images
+*
+*/
+
+.photo {
+    margin: 25px;
+    width: 50vw;
+}
+
+/*
+* ENTIRE SECTIONS
+*/
+/*
+*
+* Header
+*
+*/
+.navbar {
+    background-color: #1d3769;
+}
+
+/*
+*
+* Main CTA
+*
+*/
+.main-section {
+    width: 100%;
+    height: 500px;
+    color: white;
+    display: inline-block;
+    position: relative;
+}
+
+#canvas {
+    display: block;
+    position: absolute;
+    width: inherit;
+    height: inherit;
+    max-width: inherit;
+    min-width: 100%;
+    max-height: inherit;
+    min-height: 100%;
+    opacity: 0.5;
+}
+
+.jumbotron {
+    background: linear-gradient(#1d3769, #202c55);
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+    width: inherit !important;
+    height: inherit !important;
+}
+
+.half-container {
+    padding-top: 100px;
+    text-align: center;
+}
+
+#home {
+    height: inherit;
+}
+
+#home-title {
+    text-align: left;
+}
+
+#second-half {
+    text-align: left;
+}
+
+/*
+*
+* Project 
+*
+*/
+.border {
+    padding: 10px;
+}
+
+/*
+*
+* About Me
+*
+*/
+.profile-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-picture {
+    margin: 25px;
+}
+
+.about-me-section {
+    background-color: #e9ecef;
+    width: 100%;
+}
+
+.project-title {
+    text-align: center;
+    font-size: 80px;
+}
+
+/*
+*
+* Mobile Last
+*
+*/
+@media screen and (max-width: 576px) {
+
+    /*
+*
+* Main CTA
+*
+*/
+    .container-fluid {
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+
+    .main-section {
+        height: auto;
+    }
+
+    .half-container {
+        padding-top: 75px;
+        text-align: center;
+    }
+
+    #home {
+        height: inherit;
+    }
+
+    #home-title {
+        text-align: center;
+    }
+
+    #home-text p {
+        padding-top: 25px;
+        margin-bottom: 0;
+    }
+
+    .display-3 {
+        font-size: 2.5rem;
+        font-weight: 400;
+    }
+
+    .logo img {
+        max-width: 84px;
+    }
+
+    #second-half {
+        padding-top: 0;
+        text-align: left;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    .main-section {
+        height: 800px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media screen and (min-width: 992px) and (max-width: 1200px) {}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+    .photo {
+        max-width: 500px;
+    }
+
+    .logo {
+        max-width: 242px;
+    }
+}

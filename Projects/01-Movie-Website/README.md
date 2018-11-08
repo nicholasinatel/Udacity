@@ -5,7 +5,16 @@ to generate a static web page allowing visitors to browse throw
 my movies and watch trailers.
 
 ## Table of Contents
-
+- What it is
+- QuickStart
+- How to execute
+- Configuration
+- Advanced
+- How it works
+- Known Bugs
+- Objective
+- Details
+- License
 
 ## QuickStart
 Install - Only in Windows
@@ -37,7 +46,7 @@ Once you execute the code, the ```entertainment_center.py``` file creates the in
 I have not tested on MAC OS or LINUX, it should work though.
 
 ## Objective
-- Learn how write an application using OOP - Object Oriented Python.
+- Learn how to write an application using OOP - Object Oriented Python.
 - Learn how to make this application serve HTML via web browser.
 - Estabilish a foundation in core programmin concepts using Python.
 - Understand the role a simple web server has in receiving a request, executing a block of code and generating a response.
