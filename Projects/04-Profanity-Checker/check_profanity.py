@@ -26,7 +26,7 @@ def check_profanity(text_to_check):
     if "true" in output:
         print("Profanity Alert!!")
     elif "false" in output:
-        print("This document is political correct")
+        print("This document is politicaly correct")
     else:
         print("Could not scan the document properly.")
         

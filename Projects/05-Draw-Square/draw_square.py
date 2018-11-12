@@ -1,3 +1,5 @@
+# Code for learning about Classes
+
 import turtle
 # Why the fuck is this called turtle?
 # https://docs.python.org/2/library/turtle.html

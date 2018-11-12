@@ -7,12 +7,14 @@
 import webbrowser
 import time
 
-total_breaks = 3
-break_count = 1
-for break_count in range( 1, total_breaks, 1):
-    time.sleep(5)
-    url = raw_input("Enter with desired URL: ")
+total_breaks = 2
+break_count = 0
+timer = 5
 
+url = raw_input("Enter with desired URL: ")
+# for var in (inicio, fim, passo)
+for break_count in range( 0, total_breaks, 1):  
+    time.sleep(timer) 
+    # Suspends the program for given number of seconds  
     print(url)
-
     webbrowser.open(url)
