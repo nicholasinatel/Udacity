@@ -1,7 +1,16 @@
+# Udacity-Portfolio-Website
+
+The website is being hosted at: [nicklobo](http://nicklobo.com.br/)
+
 # What it is
 Client-side Website code to show my portfolio projects, 
-including web links, github links and resume. HTML5/CSS3, Bootstrap and JavaScript
-to generate a static beautiful web page.
+including web links, github links and resume. Static beautiful web page generated.
+
+Technologies used:
+- HTML5 
+- CSS3
+- Bootstrap (Flexbox, Grid)
+- JavaScript
 
 ## Table of Contents
 - What it is
@@ -16,8 +25,11 @@ No need to install anything. Just open the index.html file throw a web browser.
 ## Objective
 - Learn how to work with front-end technologies.
 
-## Read this
-I have used a JavaScript code, copied from codepen.io. The author is credited in the proper files.
+## Details
+If you want to use the Prepros for live automatic refresh, follow this steps:
+1. Download & Install [Prepros](https://prepros.io/).
+2. Drag & Drop your project root folder to the Prepros.
+3. Right Click and Open Live Preview.
 
 ## License
 MIT License
