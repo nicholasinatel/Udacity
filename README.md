@@ -1,5 +1,5 @@
 # What it is
-Repository for storing projects for Udacity course: Full Stack Web Developer
+Repository to store the Udacity Full Stack Web Developer course.
 
 ## Table of Contents
 - Movie Website
