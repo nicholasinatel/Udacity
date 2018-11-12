@@ -5,22 +5,22 @@ to generate a static web page allowing visitors to browse throw
 my movies and watch trailers.
 
 ## Table of Contents
-- What it is
-- QuickStart
-- How to execute
-- Configuration
-- Advanced
-- How it works
-- Known Bugs
-- Objective
-- Details
-- License
+- [What it is](https://github.com/nicholasinatel/Udacity/blob/master/Projects/01-Movie-Website/README.md/#what-it-is)
+- [QuickStart](https://github.com/nicholasinatel/Udacity/blob/master/Projects/01-Movie-Website/README.md/#quickstart)
+- [How to execute](https://github.com/nicholasinatel/Udacity/blob/master/Projects/01-Movie-Website/README.md/#how-to-execute)
+- [Configuration](https://github.com/nicholasinatel/Udacity/blob/master/Projects/01-Movie-Website/README.md/#configuration)
+- [Advanced](https://github.com/nicholasinatel/Udacity/blob/master/Projects/01-Movie-Website/README.md/#advanced)
+- [How it works](https://github.com/nicholasinatel/Udacity/blob/master/Projects/01-Movie-Website/README.md/#how-it-works)
+- [Known Bugs](https://github.com/nicholasinatel/Udacity/blob/master/Projects/01-Movie-Website/README.md/#knownbugs)
+- [Objective](https://github.com/nicholasinatel/Udacity/blob/master/Projects/01-Movie-Website/README.md/#objective)
+- [Details](https://github.com/nicholasinatel/Udacity/blob/master/Projects/01-Movie-Website/README.md/#details)
+- [License](https://github.com/nicholasinatel/Udacity/blob/master/Projects/01-Movie-Website/README.md/#license)
 
 ## QuickStart
 Install - Only in Windows
 - [Python 2.7.15](https://www.python.org/downloads/release/python-2715/)
 
-### How to execute: 
+## How to execute: 
 
 Go to project Folder, Open Terminal, Type:
 ```

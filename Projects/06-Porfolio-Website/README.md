@@ -13,11 +13,11 @@ Technologies used:
 - JavaScript
 
 ## Table of Contents
-- What it is
-- QuickStart
-- Objective
-- Read this
-- License
+- [What it is](https://github.com/nicholasinatel/Udacity/tree/master/Projects/06-Porfolio-Website/#what-it-is)
+- [QuickStart](https://github.com/nicholasinatel/Udacity/tree/master/Projects/06-Porfolio-Website/#quickstart)
+- [Objective](https://github.com/nicholasinatel/Udacity/tree/master/Projects/06-Porfolio-Website/#objective)
+- [Details](https://github.com/nicholasinatel/Udacity/tree/master/Projects/06-Porfolio-Website/#details)
+- [License](https://github.com/nicholasinatel/Udacity/tree/master/Projects/06-Porfolio-Website/#license)
 
 ## QuickStart
 No need to install anything. Just open the index.html file throw a web browser.
